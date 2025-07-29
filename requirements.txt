@@ -1,0 +1,9 @@
+google-play-scraper
+pandas
+nltk
+emoji
+Sastrawi
+better-profanity
+scikit-learn
+gensim
+numpy
